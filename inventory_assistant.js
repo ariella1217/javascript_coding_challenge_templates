@@ -7,7 +7,7 @@ const itemName = "football"
 let unitCost = 5.00
 let currentStock = 200
 let reorderLevel = 50
-let targetSStock = 400
+let targetStock = 400
 let weeklyDemand = 35
 let supplierLeadTimeWeeks = 1
 
