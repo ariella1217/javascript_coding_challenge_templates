@@ -2,7 +2,7 @@
 
 // Code goes here
 
-const itemName = football
+const itemName = "football"
 
 let unitCost = 5.00
 let currentStock = 200
